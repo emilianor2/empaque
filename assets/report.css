@@ -1,0 +1,11 @@
+/* Tarjetas base (compatible con add_unificado) */
+.section-card { border:1px solid #e5e7eb; border-radius:14px; padding:16px; background:#fff; }
+
+.table thead th{ position:sticky; top:0; background:#f8fafc; z-index:1; }
+.filter-card .form-label{ font-weight:600; }
+
+.tag{ padding:.15rem .5rem; border-radius:999px; font-size:.8rem; }
+.tag-ls{ background:#ecfeff; color:#0369a1; border:1px solid #a5f3fc; }
+.tag-f{  background:#eef2ff; color:#3730a3; border:1px solid #c7d2fe; }
+
+.tot-box{ border:1px dashed #e5e7eb; border-radius:10px; padding:10px; }
