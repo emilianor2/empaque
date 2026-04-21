@@ -42,13 +42,6 @@ Este proyecto fue desarrollado para digitalizar una operatoria que normalmente s
 - `empleados.php`: ABM de empleados.
 - `assets/`: estilos y scripts del frontend.
 
-## Lo que muestra bien en un CV
-
-Este proyecto muestra experiencia real resolviendo problemas de operacion, no solo pantallas CRUD. Refleja trabajo con reglas de negocio, modelado relacional, reporteria, exportacion de datos, control de acceso y mejora de procesos internos.
-
-Si lo queres describir en un CV o LinkedIn, una version corta podria ser:
-
-> Desarrolle un sistema web interno para gestion de produccion en planta de empaque, con carga de ordenes, trazabilidad por operario/turno/maquina, reportes operativos y exportacion a Excel usando PHP, MySQL y Bootstrap.
 
 ## Instalacion local
 
@@ -58,6 +51,3 @@ Si lo queres describir en un CV o LinkedIn, una version corta podria ser:
 4. Importar una base propia en MySQL/MariaDB.
 5. Levantar el proyecto en un servidor local como XAMPP, Laragon o Apache + PHP.
 
-## Nota sobre datos sensibles
-
-Para una publicacion en GitHub orientada a portfolio, la configuracion local y los dumps reales de base de datos quedaron excluidos del repositorio. La idea es mostrar la solucion tecnica sin exponer credenciales ni datos operativos.
